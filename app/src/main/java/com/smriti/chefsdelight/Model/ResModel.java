@@ -1,4 +1,4 @@
-package com.tiodev.vegtummy.Model;
+package com.smriti.vegtummy.Model;
 
 public class ResModel  {
     private String id, img, tittle, des, ing, category;

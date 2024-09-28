@@ -1,4 +1,4 @@
-package com.tiodev.vegtummy.RoomDB;
+package com.smriti.vegtummy.RoomDB;
 
 import androidx.room.Database;
 import androidx.room.RoomDatabase;

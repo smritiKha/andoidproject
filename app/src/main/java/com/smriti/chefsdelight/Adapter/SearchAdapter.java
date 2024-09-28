@@ -1,4 +1,4 @@
-package com.tiodev.vegtummy.Adapter;
+package com.smriti.vegtummy.Adapter;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -14,9 +14,9 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.tiodev.vegtummy.R;
-import com.tiodev.vegtummy.RecipeActivity;
-import com.tiodev.vegtummy.RoomDB.User;
+import com.smriti.vegtummy.R;
+import com.smriti.vegtummy.RecipeActivity;
+import com.smriti.vegtummy.RoomDB.User;
 
 import java.util.List;
 

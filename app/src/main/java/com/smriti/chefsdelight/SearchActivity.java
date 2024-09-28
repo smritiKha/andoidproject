@@ -1,4 +1,4 @@
-package com.tiodev.vegtummy;
+package com.smriti.vegtummy;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -16,10 +16,10 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.ImageView;
 
-import com.tiodev.vegtummy.Adapter.SearchAdapter;
-import com.tiodev.vegtummy.RoomDB.AppDatabase;
-import com.tiodev.vegtummy.RoomDB.User;
-import com.tiodev.vegtummy.RoomDB.UserDao;
+import com.smriti.vegtummy.Adapter.SearchAdapter;
+import com.smriti.vegtummy.RoomDB.AppDatabase;
+import com.smriti.vegtummy.RoomDB.User;
+import com.smriti.vegtummy.RoomDB.UserDao;
 
 import java.util.ArrayList;
 import java.util.List;

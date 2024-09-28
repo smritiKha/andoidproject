@@ -1,7 +1,6 @@
-package com.tiodev.vegtummy.RoomDB;
+package com.smriti.vegtummy.RoomDB;
 
 import androidx.annotation.NonNull;
-import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 

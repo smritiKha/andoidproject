@@ -1,4 +1,4 @@
-package com.tiodev.vegtummy;
+package com.smriti.vegtummy;
 
 import org.junit.Test;
 

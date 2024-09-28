@@ -1,11 +1,7 @@
-package com.tiodev.vegtummy.RoomDB;
+package com.smriti.vegtummy.RoomDB;
 
 import androidx.room.Dao;
-import androidx.room.Delete;
-import androidx.room.Insert;
 import androidx.room.Query;
-
-import com.tiodev.vegtummy.RoomDB.User;
 
 import java.util.List;
 
